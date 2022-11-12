@@ -2,7 +2,6 @@ from gc import callbacks
 import tensorflow as tf
 import matplotlib.pyplot as plt
 from keras import layers, models
-from keras.models import load_model
 import numpy as np
 import os
 import cv2
