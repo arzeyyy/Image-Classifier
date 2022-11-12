@@ -1,4 +1,4 @@
-# Image-Classifier
+# Image Classifier
 
 Simple Python Neural network using tensorFlow-keras that can classify to types of images
 
